@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 Im currently not working on something.<br>Im more than happy to contribute to any project.<br>I use gentoo, btw
 
 
