@@ -1,5 +1,5 @@
 # About Me:
-Im currently working on dragora.<br>Im more than happy to contribute to any project.<br>
+Im currently working on JanitorOS.<br>Im more than happy to contribute to any project.<br>
 
 
 # Langs:
